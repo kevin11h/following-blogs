@@ -72,3 +72,4 @@
 + https://www.fearlessfemaletraders.com.au/how-i-found-my-financial-feng-shui/
 + https://medium.com/@geneyan
 + https://www.youtube.com/watch?v=l8TskedqQFQ
++ https://medium.com/@changpengzhao
