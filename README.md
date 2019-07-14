@@ -8,7 +8,6 @@
 + https://sanghan.xyz/
 + https://shanhan.xyz/
 + http://infoproc.blogspot.com/
-+ https://www.financialsamurai.com/
 + https://ds3lab.org/
 + https://einzelgaengerinmotte.wordpress.com/
 + https://woobull.com/
@@ -73,3 +72,4 @@
 + https://medium.com/@geneyan
 + https://www.youtube.com/watch?v=l8TskedqQFQ
 + https://medium.com/@changpengzhao
++ https://www.financialsamurai.com/why-do-women-go-out-with-deadbeat-losers/
