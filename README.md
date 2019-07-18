@@ -73,3 +73,4 @@
 + https://www.youtube.com/watch?v=l8TskedqQFQ
 + https://medium.com/@changpengzhao
 + https://www.financialsamurai.com/why-do-women-go-out-with-deadbeat-losers/
++ https://lifeonapalebluedot.wordpress.com/
