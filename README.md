@@ -1,5 +1,6 @@
 # following-blogs
 
++ https://www.willkchung.com/mornings-with-god/2017/10/29/his-word-more-precious-than-gold-through-the-psalms
 + https://www.richdad.com/resources/rich-dad-financial-education-blog
 + http://dataillumination.blogspot.com/
 + https://blog.coderfi.com/
