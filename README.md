@@ -75,3 +75,4 @@
 + https://medium.com/@changpengzhao
 + https://www.financialsamurai.com/why-do-women-go-out-with-deadbeat-losers/
 + https://lifeonapalebluedot.wordpress.com/
++ https://medium.com/s/story/the-simple-truth-behind-reading-200-books-a-year-1767cb03af20 #charles #chu
