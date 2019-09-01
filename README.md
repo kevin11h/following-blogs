@@ -1,5 +1,7 @@
 # following-blogs
 
++ https://www.nicoledieker.com/2019/08/29/ill-be-at-fincon-next-week/
++ https://www.nicoledieker.com/2019/04/06/andrew-yang-on-universal-basic-income-and-creativity/
 + https://www.willkchung.com/mornings-with-god/2017/10/29/his-word-more-precious-than-gold-through-the-psalms
 + https://www.richdad.com/resources/rich-dad-financial-education-blog
 + http://dataillumination.blogspot.com/
