@@ -1,5 +1,6 @@
 # following-blogs
 
++ https://pauljun.me/
 + https://www.copyblogger.com/author/paul-jun/
 + http://motivatedmastery.com
 +  https://www.liangeugene.com/blog/
