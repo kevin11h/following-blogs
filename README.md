@@ -1,5 +1,6 @@
 # following-blogs
 
++ http://motivatedmastery.com
 +  https://www.liangeugene.com/blog/
 + https://www.nicoledieker.com/2019/08/29/ill-be-at-fincon-next-week/
 + https://www.nicoledieker.com/2019/04/06/andrew-yang-on-universal-basic-income-and-creativity/
