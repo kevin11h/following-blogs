@@ -1,5 +1,6 @@
 # following-blogs
 
++ https://www.copyblogger.com/author/paul-jun/
 + http://motivatedmastery.com
 +  https://www.liangeugene.com/blog/
 + https://www.nicoledieker.com/2019/08/29/ill-be-at-fincon-next-week/
