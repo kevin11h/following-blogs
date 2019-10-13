@@ -86,3 +86,4 @@
 + https://jeremy-wu.info/
 + https://yhuag.github.io/
 +  https://blog.valerieaurora.org/
++ https://medium.com/@jeffallenwang/how-we-ended-up-in-a-world-of-bitcoin-worthless-artificial-gold-b62993b25298
