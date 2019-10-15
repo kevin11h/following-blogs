@@ -1,5 +1,6 @@
 # following-blogs
 
+
 + https://pauljun.me/
 + https://www.copyblogger.com/author/paul-jun/
 + http://motivatedmastery.com
@@ -87,3 +88,4 @@
 + https://yhuag.github.io/
 +  https://blog.valerieaurora.org/
 + https://medium.com/@jeffallenwang/how-we-ended-up-in-a-world-of-bitcoin-worthless-artificial-gold-b62993b25298
++ https://medium.com/mobius-network/chinas-chandler-guo-and-jack-lee-of-foxconn-joining-mobius-advisory-board-b0d315917606
