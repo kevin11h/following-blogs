@@ -89,3 +89,6 @@
 +  https://blog.valerieaurora.org/
 + https://medium.com/@jeffallenwang/how-we-ended-up-in-a-world-of-bitcoin-worthless-artificial-gold-b62993b25298
 + https://medium.com/mobius-network/chinas-chandler-guo-and-jack-lee-of-foxconn-joining-mobius-advisory-board-b0d315917606
++ https://www.goodreads.com/author_blog_posts/19089239-on-altcoin-valuation
++ https://medium.com/harmony-one/harmony-keynote-scaling-privacy-secure-staking-radical-fairness-17fe52a797ea
++ https://therichardli.com/token-economics-and-incentivized-crypto-economics-mechanism-design/
