@@ -93,3 +93,4 @@
 + https://medium.com/harmony-one/harmony-keynote-scaling-privacy-secure-staking-radical-fairness-17fe52a797ea
 + https://therichardli.com/token-economics-and-incentivized-crypto-economics-mechanism-design/
 + https://www.alphablockcapital.com/blog
++ http://sveta-randomblog.blogspot.com/
