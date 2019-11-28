@@ -94,3 +94,4 @@
 + https://therichardli.com/token-economics-and-incentivized-crypto-economics-mechanism-design/
 + https://www.alphablockcapital.com/blog
 + http://sveta-randomblog.blogspot.com/
++ https://medium.com/@JasonShen
