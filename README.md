@@ -95,3 +95,4 @@
 + https://www.alphablockcapital.com/blog
 + http://sveta-randomblog.blogspot.com/
 + https://medium.com/@JasonShen
++ https://www.reddit.com/user/crypt0gen/
