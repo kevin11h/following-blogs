@@ -96,3 +96,4 @@
 + http://sveta-randomblog.blogspot.com/
 + https://medium.com/@JasonShen
 + https://www.reddit.com/user/crypt0gen/
++ http://www.evilyoshida.com/thread-9295.html
