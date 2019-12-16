@@ -99,3 +99,4 @@
 + http://www.evilyoshida.com/thread-9295.html
 + https://amwfcouple.wordpress.com/2014/06/13/what-i-thought-being-in-an-amwf-relationship-would-be-like-vs-reality/
 + https://medium.com/the-mission/how-basecamp-built-a-100-billion-business-by-doing-less-on-purpose-5f978ce6478c
++ https://medium.com/how-to-live/read-a-lot-then-forget-most-of-what-you-read-71aa37e1a9cb
