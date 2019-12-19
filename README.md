@@ -38,6 +38,7 @@
 + https://www.yongfook.com/
 + http://chrisyeh.blogspot.com/
 + https://blogs.nvidia.com/blog/author/jen-hsun-huang/
++ https://www.financegeek.org/
 + http://www.david-zhao.com/
 + https://katiehempenius.com/
 + https://flowingdata.com/
