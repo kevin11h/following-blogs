@@ -1,4 +1,5 @@
 # following-blogs
++ https://rayliu1.wordpress.com/2017/07/02/shrewd-manager-part-1-of-2/
 + https://newworkplace.wordpress.com/about/
 + https://penji.co/steven-li/
 + https://pauljun.me/
