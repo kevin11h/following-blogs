@@ -2,6 +2,7 @@
 + https://raykliu.wordpress.com/
 + https://rayliu1.wordpress.com/2017/07/02/shrewd-manager-part-1-of-2/
 + https://newworkplace.wordpress.com/about/
++ http://www.actuarialninja.com/
 + https://penji.co/steven-li/
 + https://pauljun.me/
 + https://www.copyblogger.com/author/paul-jun/
