@@ -105,4 +105,5 @@
 + https://medium.com/the-mission/how-basecamp-built-a-100-billion-business-by-doing-less-on-purpose-5f978ce6478c
 + https://medium.com/how-to-live/read-a-lot-then-forget-most-of-what-you-read-71aa37e1a9cb
 + https://www.financegeek.org/
++ http://pgbovine.net/
 + https://yellowj.wordpress.com
