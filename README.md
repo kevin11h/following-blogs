@@ -107,3 +107,4 @@
 + https://www.financegeek.org/
 + http://pgbovine.net/
 + https://yellowj.wordpress.com
++ http://www.happierabroad.com/Asian_Mentality.htm
