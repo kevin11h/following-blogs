@@ -1,4 +1,5 @@
 # following-blogs
++ https://www.goodreads.com/author_blog_posts/19370704-debunking-a-deceitful-bch-claim
 + https://raykliu.wordpress.com/
 + https://rayliu1.wordpress.com/2017/07/02/shrewd-manager-part-1-of-2/
 + https://newworkplace.wordpress.com/about/
