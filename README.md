@@ -110,3 +110,5 @@
 + http://pgbovine.net/
 + https://yellowj.wordpress.com
 + http://www.happierabroad.com/Asian_Mentality.htm
+
++　https://www.nadyaprimak.com/blog/
