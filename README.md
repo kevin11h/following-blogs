@@ -112,3 +112,4 @@
 + http://www.happierabroad.com/Asian_Mentality.htm
 
 +　https://www.nadyaprimak.com/blog/
++ https://medium.com/ampleforth/defi-needs-better-primitives-6402c633b799
