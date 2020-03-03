@@ -113,3 +113,4 @@
 
 +　https://www.nadyaprimak.com/blog/
 + https://medium.com/ampleforth/defi-needs-better-primitives-6402c633b799
++ entertainment@gingerliu.com
