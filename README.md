@@ -118,3 +118,4 @@
 + https://www.newsbtc.com/2020/03/13/why-did-bitcoin-price-plunge-50-percent-3800-24-hours/
 + http://www.nataliakuna.com/feather-signs--colour-meanings.html
 + https://www.goodreads.com/blog/show/303-announcing-goodreads-personalized-recommendations
++ https://blog.trello.com/hermit-habits-remote-work
