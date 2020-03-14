@@ -116,3 +116,4 @@
 + entertainment@gingerliu.com
 + https://medium.com/@kevin.hung_55311/exploring-mulechain-platforms-potential-practical-philanthropic-uses-cases-for-global-social-ccc58a6aeab0
 + https://www.newsbtc.com/2020/03/13/why-did-bitcoin-price-plunge-50-percent-3800-24-hours/
++ http://www.nataliakuna.com/feather-signs--colour-meanings.html
