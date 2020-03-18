@@ -120,3 +120,4 @@
 + https://www.goodreads.com/blog/show/303-announcing-goodreads-personalized-recommendations
 + https://blog.trello.com/hermit-habits-remote-work
 + https://www.youtube.com/watch?v=Vr9RuA_x6iQ
++ https://entrepreneurshandbook.co/how-to-turn-50-into-8-000-in-your-first-month-of-freelancing-807c269216af
