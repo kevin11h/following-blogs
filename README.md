@@ -119,3 +119,4 @@
 + http://www.nataliakuna.com/feather-signs--colour-meanings.html
 + https://www.goodreads.com/blog/show/303-announcing-goodreads-personalized-recommendations
 + https://blog.trello.com/hermit-habits-remote-work
++ https://scholar.harvard.edu/ericding/pages/my-publications
