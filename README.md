@@ -1,4 +1,5 @@
 # following-blogs
++ http://www.effectiveengineer.com/blog
 + https://medium.com/@laurenschulte
 + https://www.goodreads.com/author_blog_posts/19370704-debunking-a-deceitful-bch-claim
 + https://raykliu.wordpress.com/
