@@ -125,3 +125,6 @@
 + https://entrepreneurshandbook.co/how-to-turn-50-into-8-000-in-your-first-month-of-freelancing-807c269216af
 + https://terrytao.wordpress.com/
 + https://rubygarage.org/blog/food-delivery-trends-2019
++ https://medium.com/swlh/what-happens-to-startups-in-a-recession-ce2c4f6456e6
++ https://medium.com/swlh/how-will-we-know-when-the-covid-19-pandemic-is-getting-better-be2bdce734a4
++ https://medium.com/live-your-life-on-purpose/why-losing-my-day-job-changed-my-life-for-the-better-a41d542a1b84
