@@ -135,3 +135,4 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + https://manifoldlearning.com/episode-039/
 + http://www.davisliumd.com/andrew-yang-next-steps-rest-reassess-reset-restart-why-he-will-unsuspend-the-campaign/
 + https://www.investopedia.com/terms/p/passiveincome.asp
++ https://cierratuatha.wordpress.com/2019/01/03/questions-on-tartaria/
