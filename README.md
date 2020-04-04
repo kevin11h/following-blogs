@@ -130,3 +130,4 @@
 + https://medium.com/live-your-life-on-purpose/why-losing-my-day-job-changed-my-life-for-the-better-a41d542a1b84
 + https://manifoldlearning.com/episode-039/
 + http://www.davisliumd.com/andrew-yang-next-steps-rest-reassess-reset-restart-why-he-will-unsuspend-the-campaign/
++ https://www.investopedia.com/terms/p/passiveincome.asp
