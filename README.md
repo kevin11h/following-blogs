@@ -123,6 +123,9 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + https://medium.com/@kevin.hung_55311/exploring-mulechain-platforms-potential-practical-philanthropic-uses-cases-for-global-social-ccc58a6aeab0
 + https://www.newsbtc.com/2020/03/13/why-did-bitcoin-price-plunge-50-percent-3800-24-hours/
 + http://www.nataliakuna.com/feather-signs--colour-meanings.html
++ https://www.investopedia.com/terms/p/passiveincome.asp
++ https://cierratuatha.wordpress.com/2019/01/03/questions-on-tartaria/
++ https://steemit.com/@nextgen622/posts
 + https://www.goodreads.com/blog/show/303-announcing-goodreads-personalized-recommendations
 + https://blog.trello.com/hermit-habits-remote-work
 + https://www.youtube.com/watch?v=Vr9RuA_x6iQ
@@ -134,5 +137,3 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + https://medium.com/live-your-life-on-purpose/why-losing-my-day-job-changed-my-life-for-the-better-a41d542a1b84
 + https://manifoldlearning.com/episode-039/
 + http://www.davisliumd.com/andrew-yang-next-steps-rest-reassess-reset-restart-why-he-will-unsuspend-the-campaign/
-+ https://www.investopedia.com/terms/p/passiveincome.asp
-+ https://cierratuatha.wordpress.com/2019/01/03/questions-on-tartaria/
