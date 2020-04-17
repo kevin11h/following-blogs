@@ -139,3 +139,4 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + https://manifoldlearning.com/episode-039/
 + http://www.davisliumd.com/andrew-yang-next-steps-rest-reassess-reset-restart-why-he-will-unsuspend-the-campaign/
  + https://kenliu.name/blog/2020/04/15/virtual-festivals-and-vagabonds/
++ https://blog.nomics.com/flippening/smart-contract-platforms-katya-kovalenko/
