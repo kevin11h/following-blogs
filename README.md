@@ -3,7 +3,7 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 
 
 # following-blogs
-
++ https://alexwlchan.net/2019/04/getting-a-transcript-of-a-talk-from-youtube/
 + http://www.aboutjohnlee.com/
 + http://www.effectiveengineer.com/blog
 + https://medium.com/@laurenschulte
