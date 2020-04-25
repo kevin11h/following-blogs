@@ -3,6 +3,7 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 
 
 # following-blogs
++ http://identitygirlsonline.com/2015/03/02/love-in-color-a-contrast-to-50-shades-of-grey-2/
 + https://alexwlchan.net/2019/04/getting-a-transcript-of-a-talk-from-youtube/
 + http://www.aboutjohnlee.com/
 + http://www.effectiveengineer.com/blog
