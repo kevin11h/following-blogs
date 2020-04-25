@@ -3,12 +3,8 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 
 
 # following-blogs
-+ http://identitygirlsonline.com/2015/03/02/love-in-color-a-contrast-to-50-shades-of-grey-2/
-+ https://alexwlchan.net/2019/04/getting-a-transcript-of-a-talk-from-youtube/
-+ http://www.aboutjohnlee.com/
-+ http://www.effectiveengineer.com/blog
-+ https://medium.com/@laurenschulte
-+ https://www.goodreads.com/author_blog_posts/19370704-debunking-a-deceitful-bch-claim
+
++ https://www.goodreads.com/author_blog_posts/19370704-debunking-a-deceitful-bch-claim 
 + https://raykliu.wordpress.com/
 + https://rayliu1.wordpress.com/2017/07/02/shrewd-manager-part-1-of-2/
 + https://newworkplace.wordpress.com/about/
@@ -143,5 +139,10 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
  + https://kenliu.name/blog/2020/04/15/virtual-festivals-and-vagabonds/
 + https://blog.nomics.com/flippening/smart-contract-platforms-katya-kovalenko/
 + https://somayatreasure.com/
++ http://identitygirlsonline.com/2015/03/02/love-in-color-a-contrast-to-50-shades-of-grey-2/
++ https://alexwlchan.net/2019/04/getting-a-transcript-of-a-talk-from-youtube/
++ http://www.aboutjohnlee.com/
++ http://www.effectiveengineer.com/blog
++ https://medium.com/@laurenschulte
 + https://mkyong.com
 + https://towardsdatascience.com/build-a-python-crawler-to-get-activity-stream-with-github-api-d1e9f5831d88
