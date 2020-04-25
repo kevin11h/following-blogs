@@ -146,3 +146,4 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + https://medium.com/@laurenschulte
 + https://mkyong.com
 + https://towardsdatascience.com/build-a-python-crawler-to-get-activity-stream-with-github-api-d1e9f5831d88
++ http://loganlo.com/2013/05/asian-males-and-white-females.html
