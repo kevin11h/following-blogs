@@ -153,3 +153,4 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + http://loganlo.com/2013/05/asian-males-and-white-females.html
 + http://biophysics.med.jhmi.edu/~yliu120/tensorflow.html
 + http://bbcenglish.org/
++ https://www.planningreport.com/2018/06/18/dr-patrick-soon-shiong-4th-industrial-revolution-los-angeles-leadership-role
