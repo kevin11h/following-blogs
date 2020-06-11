@@ -3,6 +3,7 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 
 
 # following-blogs
++ https://www.muhanzhang.com/reflections-25-deal-memos/
 + www.meganpower.blogspot.com/2012/02/birkhoffs-formula-for-aesthetic-measure.html
 + http://richardkho.com
 + https://www.andrewng.org/
