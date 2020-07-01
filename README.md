@@ -10,9 +10,10 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + https://www.andrewng.org/
 + http://cougarmetrica.blogspot.com/
 + https://medium.com/@tatianaensslin
-+ https://aaronliaomusic.com/contact
++ https://medium.com/@jeffallenwang/how-to-lose-all-your-money-in-10-steps-an-idiots-guide-to-investing-in-bitcoin-d84e4f03eed0
 + https://boxmining.com/dcep/
 + https://www.goodreads.com/author_blog_posts/19370704-debunking-a-deceitful-bch-claim 
++ https://aaronliaomusic.com/contact
 + https://raykliu.wordpress.com/
 + https://rayliu1.wordpress.com/2017/07/02/shrewd-manager-part-1-of-2/
 + https://newworkplace.wordpress.com/about/
