@@ -40,9 +40,10 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + https://www.visualcinnamon.com/
 + http://www.eugenewei.com
 + http://www.onlinemathtraining.com/
++ https://yinranch.com/
++ https://thepolymathproject.com
 + http://theyizhang.com/
 + https://blog.evercoin.com/
-+ https://thepolymathproject.com
 + http://gregnguyen.blogspot.com
 + http://oi7.me/
 + https://www.tonysheng.com/
