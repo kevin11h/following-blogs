@@ -7,6 +7,7 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + https://veradiverdict.substack.com/p/orchid-launches-on-mobile
 + https://www.muhanzhang.com/reflections-25-deal-memos/
 + www.meganpower.blogspot.com/2012/02/birkhoffs-formula-for-aesthetic-measure.html
++ http://www.leannamae.org/my-blogs.html
 + http://richardkho.com
 + https://www.andrewng.org/
 + http://cougarmetrica.blogspot.com/
