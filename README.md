@@ -3,6 +3,8 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 
 
 # following-blogs
++ https://jimmysong.substack.com/p/how-do-i-contribute-to-bitcoin-core
++ ivanabooks.com
 + https://blog.wetrust.io/how-to-install-and-use-metamask-7210720ca047
 + https://veradiverdict.substack.com/p/orchid-launches-on-mobile
 + https://www.muhanzhang.com/reflections-25-deal-memos/
