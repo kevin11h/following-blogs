@@ -1,6 +1,6 @@
 # following-blogs
 http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordpress/
-
++ http://regoapps.com/lifehacked
 
 # following-blogs
 + https://jimmysong.substack.com/p/how-do-i-contribute-to-bitcoin-core
