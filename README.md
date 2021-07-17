@@ -3,6 +3,7 @@ http://fetchrss.com/ https://wpforms.com/mailchimp-rss-to-email-newsletter-wordp
 + http://regoapps.com/lifehacked
 
 # following-blogs
++ https://openwritings.net/
 + https://jimmysong.substack.com/p/how-do-i-contribute-to-bitcoin-core
 + ivanabooks.com
 + https://blog.wetrust.io/how-to-install-and-use-metamask-7210720ca047
